@@ -21,7 +21,7 @@ This site should function properly in any given internet browser, and can be ope
 
 ## Deployed Link
 
-* [https://popsizzle.github.io/code-refactor/](#)
+* [https://popsizzle.github.io/code-refactor](#)
 
 
 ## Authors
