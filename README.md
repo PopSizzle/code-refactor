@@ -6,7 +6,7 @@ In general the goal was to keep the website displaying the same as it had been, 
 
 ## Changes
 
-For the most part the changes that I made to the existing consisted of simplifying the .css file by combining duplicate instructions into one class. I also remade several classes as ids, given that they were only affecting one object. I also added an id to the html file so that a linke would function properly. Lastly, I cleaned up the instructions a little bit in the .css file and changed the minimum width of the body so that the menu items on the screen didn't collapse if the window was made smaller.
+For the most part the changes that I made to the existing code consisted of simplifying the .css file by combining duplicate instructions into one class. I also remade several classes as ids, given that they were only affecting one object. I added an id to the html file so that a linke would function properly. I wrote several comments to make it more clear to future developers what each section represented, and then I made the indentation and the spacing a little more friendly to read. Lastly, I cleaned up the instructions a little bit in the .css file and changed the minimum width of the body so that the menu items on the screen didn't collapse if the window was made smaller.
 
 ### Viewing/Editing
 
@@ -17,7 +17,6 @@ This site should function properly in any given internet browser, and can be ope
 
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Deployed Link
 
@@ -29,14 +28,10 @@ This site should function properly in any given internet browser, and can be ope
 * **Sam Poppe** 
 
 - [https://popsizzle.github.io/Responsive-Portfolio/](#)
-- [https://github.com/PopSizzle/code-refactor](https://github.com/)
+- [https://github.com/PopSizzle/](https://github.com/)
 - [https://www.linkedin.com/in/sam-poppe-623281193/](https://www.linkedin.com/)
 
 See also the list of [https://github.com/your/project/contributors] who participated in this project.
-
-## License
-
-This project is licensed under the MIT License 
 
 ## Acknowledgments
 
